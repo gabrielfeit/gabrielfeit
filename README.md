@@ -1,16 +1,14 @@
-## Hi there 👋
+## bem vindo 💙
 
-<!--
-**gabrielfeit/gabrielfeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Gabriel
 
-Here are some ideas to get you started:
+-Estou estudando na [alura](https://www.alura.com.br)
+-Estou me desenvolvendo na linguagens javascript
+-Ultilizo esse espaço para minha organização e compartilhamento dos seu projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+00001120143512sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/NX5i4BDoiIEAAAAC/wovies-the-kid.gif)
